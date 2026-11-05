@@ -27,6 +27,20 @@ To empower individuals to identify vulnerable people within their families and n
 5. **Follow up.** Find out whether the assistance made a difference.
 6. **Encourage another person.** Help the effort grow through trusted relationships.
 
+## Our community support network
+
+We recognise that people and institutions already rooted in local communities can help identify needs and connect people with support. Our network may include:
+
+- Immediate and extended family members.
+- Immediate neighbours and neighbourhood associations.
+- Churches, mosques and other religious or faith-based organisations.
+- Community, traditional and local leaders.
+- NGOs, charities and community-based organisations.
+- Government social-support agencies and public service providers.
+- Businesses, professional groups and individual philanthropists.
+
+Faith-based organisations can be valuable partners because of their local relationships, volunteers, welfare activities and community facilities. Participation is open to people of every faith and to people with no religious affiliation. Assistance must never be conditional on religious belief, worship, conversion, membership or participation in religious activities. The initiative itself is non-partisan and non-sectarian.
+
 ## Areas of support
 
 - Elderly assistance and digital inclusion.
@@ -84,7 +98,8 @@ You can begin without joining an organisation or making a financial contribution
 2. Ask whether a nearby neighbour needs practical help.
 3. Listen and agree on an appropriate next step.
 4. Help directly if you safely can, or identify a legitimate service to contact.
-5. Follow up respectfully.
+5. Where appropriate, ask a trusted community, faith-based or charitable organisation whether it can help.
+6. Follow up respectfully.
 
 Read [our founding concept](docs/founding-concept.md) for the full programme framework. Contributions and suggestions are welcome through GitHub issues and pull requests.
 
