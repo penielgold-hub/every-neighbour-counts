@@ -107,6 +107,24 @@ It will support:
 
 Participation will be voluntary. Beneficiaries' privacy and dignity must always be respected.
 
+### 8.1 Community and faith-based support partners
+
+We recognise that trusted institutions and groups already serve people within local communities. Our support network may include:
+
+- Churches, mosques and other religious or faith-based organisations.
+- Religious welfare committees, outreach teams and community volunteers.
+- Neighbourhood associations and community groups.
+- Traditional and local leaders.
+- NGOs, charities and community-based organisations.
+- Government social-support agencies.
+- Businesses, professional groups and individual philanthropists.
+
+Faith-based organisations can help identify needs, share verified information, provide volunteers, offer suitable meeting spaces, make referrals and, where they choose and are able, contribute practical or material support.
+
+**The initiative is open to everyone, regardless of religion or belief.** Assistance must never be conditional on religious affiliation, worship, conversion, membership or participation in religious activities. No person should be excluded or treated differently because they belong to another faith or have no religious affiliation.
+
+Partnerships must be voluntary, transparent and based on the organisation's actual capacity. We will not imply that any religious body or institution has endorsed or partnered with the initiative until it has expressly agreed.
+
 ## 9. Accountability and Measurable Impact
 
 Our success will not be measured by followers, messages circulated or promises made.
@@ -121,6 +139,7 @@ Examples of impact indicators include:
 - Number of employment or training referrals resulting in participation.
 - Number of volunteers actively contributing.
 - Number of identified problems successfully addressed.
+- Number and type of community or faith-based organisations that have agreed to support specific activities.
 
 We will distinguish between referrals made, assistance delivered and outcomes independently confirmed.
 
@@ -136,14 +155,14 @@ Every Neighbour Counts will operate on principles of:
 - Accountability.
 - Non-discrimination.
 - Respect for human dignity.
-- Non-partisanship.
+- Non-partisanship and non-sectarianism.
 - Protection of personal information.
 
 We will not promise assistance that we cannot deliver, misrepresent our authority or exploit vulnerable people.
 
 We will not collect money from beneficiaries in exchange for access to assistance.
 
-We will verify information before sharing it and clearly distinguish our independent volunteer role from the authority of government agencies and partner organisations.
+We will verify information before sharing it and clearly distinguish our independent volunteer role from the authority of government agencies, religious bodies and partner organisations.
 
 ## 11. Safeguarding and Privacy
 
@@ -179,10 +198,10 @@ Establish the initiative, document its objectives, create the GitHub repository 
 Encourage volunteers to identify and assist vulnerable people within their immediate surroundings.
 
 ### Phase 3: Community coordination
-Build a network of volunteers who can share information, identify needs and coordinate legitimate assistance.
+Build a network of volunteers who can share information, identify needs and coordinate legitimate assistance, including through willing community and faith-based partners.
 
 ### Phase 4: Institutional partnerships
-Engage NGOs, charities, government agencies, businesses and other organisations for collaboration.
+Engage NGOs, charities, religious organisations, government agencies, businesses and other organisations for collaboration.
 
 ### Phase 5: Impact reporting and expansion
 Publish periodic reports documenting activities, verified outcomes, lessons and opportunities for improvement.
@@ -204,6 +223,8 @@ Sometimes it begins with a telephone call to an elderly parent.
 Sometimes it begins with visiting a struggling neighbour.
 
 Sometimes it begins with helping someone access an opportunity they did not know existed.
+
+Sometimes it begins when a local church, mosque, community group or neighbour joins hands to support someone in need.
 
 We believe that every person has the capacity to make a positive difference within their immediate environment.
 
